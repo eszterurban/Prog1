@@ -1,1 +1,1 @@
-# Debreceni Egyetem Programtervező Informatika 2. Félév Prograozás 1.
+# Debreceni Egyetem Programtervező Informatika 2. Félév Programozás 1.
